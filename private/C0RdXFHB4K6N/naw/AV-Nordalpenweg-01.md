@@ -1,4 +1,4 @@
-## [Nordalpenweg 01 - Österreichischer Weitwanderweg 01, 1000 km](https://www.alpenverein.at/weitwanderer/weitwanderwege/nordalpenweg.php)
+## [Nordalpenweg - Österreichischer Weitwanderweg 01](https://www.alpenverein.at/weitwanderer/weitwanderwege/nordalpenweg.php)
 
 **Der nordalpine Weitwanderweg 01** wurde 1975 eröffnet und ist die erste österreichische Höhentransversale durch die Ostalpen. Er erstreckt sich vom Neusiedler See bzw. Wienerwald durch die nördliche Kalkzone der Ostalpen bis zum Bodensee. Dabei durchmisst er die sieben Bundesländer Burgenland, Niederösterreich, Steiermark, Oberösterreich, Salzburg, Tirol und Vorarlberg und es werden im Dachstein- und Hochkönigbereich sowie auf der Zugspitze und in den Lechtaler Alpen Höhen bis nahe 3000 m dieses großteils bereits hochalpinen Weitwanderweges erklommen. So sind neben der alpinen Ausrüstung unbedingt Trittsicherheit, in einigen Bereichen Schwindelfreiheit und Orientierungsgeschick bei Nebel, gelegentlich sogar Gletschererfahrung notwendig.  
 
