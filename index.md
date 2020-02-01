@@ -1,3 +1,5 @@
 # This is cplerch.github.io
 
-A space reserved for future use by [https://github.com/cplerch](https://github.com/cplerch)
+A space reserved for future use by Christian P. Lerch 
+
+See also: [https://github.com/cplerch](https://github.com/cplerch)
