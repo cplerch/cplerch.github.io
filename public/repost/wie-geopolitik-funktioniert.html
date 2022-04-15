@@ -1,0 +1,1273 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title></title>
+  <style>
+  @font-face {
+  font-family: octicons-link;
+  src: url(data:font/woff;charset=utf-8;base64,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) format('woff');
+}
+
+.markdown-body .octicon {
+  display: inline-block;
+  fill: currentColor;
+  vertical-align: text-bottom;
+}
+
+.markdown-body .anchor {
+  float: left;
+  line-height: 1;
+  margin-left: -20px;
+  padding-right: 4px;
+}
+
+.markdown-body .anchor:focus {
+  outline: none;
+}
+
+.markdown-body h1 .octicon-link,
+.markdown-body h2 .octicon-link,
+.markdown-body h3 .octicon-link,
+.markdown-body h4 .octicon-link,
+.markdown-body h5 .octicon-link,
+.markdown-body h6 .octicon-link {
+  color: #1b1f23;
+  vertical-align: middle;
+  visibility: hidden;
+}
+
+.markdown-body h1:hover .anchor,
+.markdown-body h2:hover .anchor,
+.markdown-body h3:hover .anchor,
+.markdown-body h4:hover .anchor,
+.markdown-body h5:hover .anchor,
+.markdown-body h6:hover .anchor {
+  text-decoration: none;
+}
+
+.markdown-body h1:hover .anchor .octicon-link,
+.markdown-body h2:hover .anchor .octicon-link,
+.markdown-body h3:hover .anchor .octicon-link,
+.markdown-body h4:hover .anchor .octicon-link,
+.markdown-body h5:hover .anchor .octicon-link,
+.markdown-body h6:hover .anchor .octicon-link {
+  visibility: visible;
+}
+
+.markdown-body {
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  color: #24292e;
+  line-height: 1.5;
+  font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji,Segoe UI Symbol;
+  font-size: 16px;
+  line-height: 1.5;
+  word-wrap: break-word;
+}
+
+.markdown-body .pl-c {
+  color: #6a737d;
+}
+
+.markdown-body .pl-c1,
+.markdown-body .pl-s .pl-v {
+  color: #005cc5;
+}
+
+.markdown-body .pl-e,
+.markdown-body .pl-en {
+  color: #6f42c1;
+}
+
+.markdown-body .pl-s .pl-s1,
+.markdown-body .pl-smi {
+  color: #24292e;
+}
+
+.markdown-body .pl-ent {
+  color: #22863a;
+}
+
+.markdown-body .pl-k {
+  color: #d73a49;
+}
+
+.markdown-body .pl-pds,
+.markdown-body .pl-s,
+.markdown-body .pl-s .pl-pse .pl-s1,
+.markdown-body .pl-sr,
+.markdown-body .pl-sr .pl-cce,
+.markdown-body .pl-sr .pl-sra,
+.markdown-body .pl-sr .pl-sre {
+  color: #032f62;
+}
+
+.markdown-body .pl-smw,
+.markdown-body .pl-v {
+  color: #e36209;
+}
+
+.markdown-body .pl-bu {
+  color: #b31d28;
+}
+
+.markdown-body .pl-ii {
+  background-color: #b31d28;
+  color: #fafbfc;
+}
+
+.markdown-body .pl-c2 {
+  background-color: #d73a49;
+  color: #fafbfc;
+}
+
+.markdown-body .pl-c2:before {
+  content: "^M";
+}
+
+.markdown-body .pl-sr .pl-cce {
+  color: #22863a;
+  font-weight: 700;
+}
+
+.markdown-body .pl-ml {
+  color: #735c0f;
+}
+
+.markdown-body .pl-mh,
+.markdown-body .pl-mh .pl-en,
+.markdown-body .pl-ms {
+  color: #005cc5;
+  font-weight: 700;
+}
+
+.markdown-body .pl-mi {
+  color: #24292e;
+  font-style: italic;
+}
+
+.markdown-body .pl-mb {
+  color: #24292e;
+  font-weight: 700;
+}
+
+.markdown-body .pl-md {
+  background-color: #ffeef0;
+  color: #b31d28;
+}
+
+.markdown-body .pl-mi1 {
+  background-color: #f0fff4;
+  color: #22863a;
+}
+
+.markdown-body .pl-mc {
+  background-color: #ffebda;
+  color: #e36209;
+}
+
+.markdown-body .pl-mi2 {
+  background-color: #005cc5;
+  color: #f6f8fa;
+}
+
+.markdown-body .pl-mdr {
+  color: #6f42c1;
+  font-weight: 700;
+}
+
+.markdown-body .pl-ba {
+  color: #586069;
+}
+
+.markdown-body .pl-sg {
+  color: #959da5;
+}
+
+.markdown-body .pl-corl {
+  color: #032f62;
+  text-decoration: underline;
+}
+
+.markdown-body details {
+  display: block;
+}
+
+.markdown-body summary {
+  display: list-item;
+}
+
+.markdown-body a {
+  background-color: transparent;
+}
+
+.markdown-body a:active,
+.markdown-body a:hover {
+  outline-width: 0;
+}
+
+.markdown-body strong {
+  font-weight: inherit;
+  font-weight: bolder;
+}
+
+.markdown-body h1 {
+  font-size: 2em;
+  margin: .67em 0;
+}
+
+.markdown-body img {
+  border-style: none;
+}
+
+.markdown-body code,
+.markdown-body kbd,
+.markdown-body pre {
+  font-family: monospace,monospace;
+  font-size: 1em;
+}
+
+.markdown-body hr {
+  box-sizing: content-box;
+  height: 0;
+  overflow: visible;
+}
+
+.markdown-body input {
+  font: inherit;
+  margin: 0;
+}
+
+.markdown-body input {
+  overflow: visible;
+}
+
+.markdown-body [type=checkbox] {
+  box-sizing: border-box;
+  padding: 0;
+}
+
+.markdown-body * {
+  box-sizing: border-box;
+}
+
+.markdown-body input {
+  font-family: inherit;
+  font-size: inherit;
+  line-height: inherit;
+}
+
+.markdown-body a {
+  color: #0366d6;
+  text-decoration: none;
+}
+
+.markdown-body a:hover {
+  text-decoration: underline;
+}
+
+.markdown-body strong {
+  font-weight: 600;
+}
+
+.markdown-body hr {
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid #dfe2e5;
+  height: 0;
+  margin: 15px 0;
+  overflow: hidden;
+}
+
+.markdown-body hr:before {
+  content: "";
+  display: table;
+}
+
+.markdown-body hr:after {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+.markdown-body table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+.markdown-body td,
+.markdown-body th {
+  padding: 0;
+}
+
+.markdown-body details summary {
+  cursor: pointer;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.markdown-body h1 {
+  font-size: 32px;
+}
+
+.markdown-body h1,
+.markdown-body h2 {
+  font-weight: 600;
+}
+
+.markdown-body h2 {
+  font-size: 24px;
+}
+
+.markdown-body h3 {
+  font-size: 20px;
+}
+
+.markdown-body h3,
+.markdown-body h4 {
+  font-weight: 600;
+}
+
+.markdown-body h4 {
+  font-size: 16px;
+}
+
+.markdown-body h5 {
+  font-size: 14px;
+}
+
+.markdown-body h5,
+.markdown-body h6 {
+  font-weight: 600;
+}
+
+.markdown-body h6 {
+  font-size: 12px;
+}
+
+.markdown-body p {
+  margin-bottom: 10px;
+  margin-top: 0;
+}
+
+.markdown-body blockquote {
+  margin: 0;
+}
+
+.markdown-body ol,
+.markdown-body ul {
+  margin-bottom: 0;
+  margin-top: 0;
+  padding-left: 0;
+}
+
+.markdown-body ol ol,
+.markdown-body ul ol {
+  list-style-type: lower-roman;
+}
+
+.markdown-body ol ol ol,
+.markdown-body ol ul ol,
+.markdown-body ul ol ol,
+.markdown-body ul ul ol {
+  list-style-type: lower-alpha;
+}
+
+.markdown-body dd {
+  margin-left: 0;
+}
+
+.markdown-body code,
+.markdown-body pre {
+  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace;
+  font-size: 12px;
+}
+
+.markdown-body pre {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.markdown-body input::-webkit-inner-spin-button,
+.markdown-body input::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  appearance: none;
+  margin: 0;
+}
+
+.markdown-body .border {
+  border: 1px solid #e1e4e8!important;
+}
+
+.markdown-body .border-0 {
+  border: 0!important;
+}
+
+.markdown-body .border-bottom {
+  border-bottom: 1px solid #e1e4e8!important;
+}
+
+.markdown-body .rounded-1 {
+  border-radius: 3px!important;
+}
+
+.markdown-body .bg-white {
+  background-color: #fff!important;
+}
+
+.markdown-body .bg-gray-light {
+  background-color: #fafbfc!important;
+}
+
+.markdown-body .text-gray-light {
+  color: #6a737d!important;
+}
+
+.markdown-body .mb-0 {
+  margin-bottom: 0!important;
+}
+
+.markdown-body .my-2 {
+  margin-bottom: 8px!important;
+  margin-top: 8px!important;
+}
+
+.markdown-body .pl-0 {
+  padding-left: 0!important;
+}
+
+.markdown-body .py-0 {
+  padding-bottom: 0!important;
+  padding-top: 0!important;
+}
+
+.markdown-body .pl-1 {
+  padding-left: 4px!important;
+}
+
+.markdown-body .pl-2 {
+  padding-left: 8px!important;
+}
+
+.markdown-body .py-2 {
+  padding-bottom: 8px!important;
+  padding-top: 8px!important;
+}
+
+.markdown-body .pl-3,
+.markdown-body .px-3 {
+  padding-left: 16px!important;
+}
+
+.markdown-body .px-3 {
+  padding-right: 16px!important;
+}
+
+.markdown-body .pl-4 {
+  padding-left: 24px!important;
+}
+
+.markdown-body .pl-5 {
+  padding-left: 32px!important;
+}
+
+.markdown-body .pl-6 {
+  padding-left: 40px!important;
+}
+
+.markdown-body .f6 {
+  font-size: 12px!important;
+}
+
+.markdown-body .lh-condensed {
+  line-height: 1.25!important;
+}
+
+.markdown-body .text-bold {
+  font-weight: 600!important;
+}
+
+.markdown-body:before {
+  content: "";
+  display: table;
+}
+
+.markdown-body:after {
+  clear: both;
+  content: "";
+  display: table;
+}
+
+.markdown-body>:first-child {
+  margin-top: 0!important;
+}
+
+.markdown-body>:last-child {
+  margin-bottom: 0!important;
+}
+
+.markdown-body a:not([href]) {
+  color: inherit;
+  text-decoration: none;
+}
+
+.markdown-body blockquote,
+.markdown-body dl,
+.markdown-body ol,
+.markdown-body p,
+.markdown-body pre,
+.markdown-body table,
+.markdown-body ul {
+  margin-bottom: 16px;
+  margin-top: 0;
+}
+
+.markdown-body hr {
+  background-color: #e1e4e8;
+  border: 0;
+  height: .25em;
+  margin: 24px 0;
+  padding: 0;
+}
+
+.markdown-body blockquote {
+  border-left: .25em solid #dfe2e5;
+  color: #6a737d;
+  padding: 0 1em;
+}
+
+.markdown-body blockquote>:first-child {
+  margin-top: 0;
+}
+
+.markdown-body blockquote>:last-child {
+  margin-bottom: 0;
+}
+
+.markdown-body kbd {
+  background-color: #fafbfc;
+  border: 1px solid #c6cbd1;
+  border-bottom-color: #959da5;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #959da5;
+  color: #444d56;
+  display: inline-block;
+  font-size: 11px;
+  line-height: 10px;
+  padding: 3px 5px;
+  vertical-align: middle;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  font-weight: 600;
+  line-height: 1.25;
+  margin-bottom: 16px;
+  margin-top: 24px;
+}
+
+.markdown-body h1 {
+  font-size: 2em;
+}
+
+.markdown-body h1,
+.markdown-body h2 {
+  border-bottom: 1px solid #eaecef;
+  padding-bottom: .3em;
+}
+
+.markdown-body h2 {
+  font-size: 1.5em;
+}
+
+.markdown-body h3 {
+  font-size: 1.25em;
+}
+
+.markdown-body h4 {
+  font-size: 1em;
+}
+
+.markdown-body h5 {
+  font-size: .875em;
+}
+
+.markdown-body h6 {
+  color: #6a737d;
+  font-size: .85em;
+}
+
+.markdown-body ol,
+.markdown-body ul {
+  padding-left: 2em;
+}
+
+.markdown-body ol ol,
+.markdown-body ol ul,
+.markdown-body ul ol,
+.markdown-body ul ul {
+  margin-bottom: 0;
+  margin-top: 0;
+}
+
+.markdown-body li {
+  word-wrap: break-all;
+}
+
+.markdown-body li>p {
+  margin-top: 16px;
+}
+
+.markdown-body li+li {
+  margin-top: .25em;
+}
+
+.markdown-body dl {
+  padding: 0;
+}
+
+.markdown-body dl dt {
+  font-size: 1em;
+  font-style: italic;
+  font-weight: 600;
+  margin-top: 16px;
+  padding: 0;
+}
+
+.markdown-body dl dd {
+  margin-bottom: 16px;
+  padding: 0 16px;
+}
+
+.markdown-body table {
+  display: block;
+  overflow: auto;
+  width: 100%;
+}
+
+.markdown-body table th {
+  font-weight: 600;
+}
+
+.markdown-body table td,
+.markdown-body table th {
+  border: 1px solid #dfe2e5;
+  padding: 6px 13px;
+}
+
+.markdown-body table tr {
+  background-color: #fff;
+  border-top: 1px solid #c6cbd1;
+}
+
+.markdown-body table tr:nth-child(2n) {
+  background-color: #f6f8fa;
+}
+
+.markdown-body img {
+  background-color: #fff;
+  box-sizing: content-box;
+  max-width: 100%;
+}
+
+.markdown-body img[align=right] {
+  padding-left: 20px;
+}
+
+.markdown-body img[align=left] {
+  padding-right: 20px;
+}
+
+.markdown-body code {
+  background-color: rgba(27,31,35,.05);
+  border-radius: 3px;
+  font-size: 85%;
+  margin: 0;
+  padding: .2em .4em;
+}
+
+.markdown-body pre {
+  word-wrap: normal;
+}
+
+.markdown-body pre>code {
+  background: transparent;
+  border: 0;
+  font-size: 100%;
+  margin: 0;
+  padding: 0;
+  white-space: pre;
+  word-break: normal;
+}
+
+.markdown-body .highlight {
+  margin-bottom: 16px;
+}
+
+.markdown-body .highlight pre {
+  margin-bottom: 0;
+  word-break: normal;
+}
+
+.markdown-body .highlight pre,
+.markdown-body pre {
+  background-color: #f6f8fa;
+  border-radius: 3px;
+  font-size: 85%;
+  line-height: 1.45;
+  overflow: auto;
+  padding: 16px;
+}
+
+.markdown-body pre code {
+  background-color: transparent;
+  border: 0;
+  display: inline;
+  line-height: inherit;
+  margin: 0;
+  max-width: auto;
+  overflow: visible;
+  padding: 0;
+  word-wrap: normal;
+}
+
+.markdown-body .commit-tease-sha {
+  color: #444d56;
+  display: inline-block;
+  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace;
+  font-size: 90%;
+}
+
+.markdown-body .blob-wrapper {
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
+  overflow-x: auto;
+  overflow-y: hidden;
+}
+
+.markdown-body .blob-wrapper-embedded {
+  max-height: 240px;
+  overflow-y: auto;
+}
+
+.markdown-body .blob-num {
+  -moz-user-select: none;
+  -ms-user-select: none;
+  -webkit-user-select: none;
+  color: rgba(27,31,35,.3);
+  cursor: pointer;
+  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace;
+  font-size: 12px;
+  line-height: 20px;
+  min-width: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
+  text-align: right;
+  user-select: none;
+  vertical-align: top;
+  white-space: nowrap;
+  width: 1%;
+}
+
+.markdown-body .blob-num:hover {
+  color: rgba(27,31,35,.6);
+}
+
+.markdown-body .blob-num:before {
+  content: attr(data-line-number);
+}
+
+.markdown-body .blob-code {
+  line-height: 20px;
+  padding-left: 10px;
+  padding-right: 10px;
+  position: relative;
+  vertical-align: top;
+}
+
+.markdown-body .blob-code-inner {
+  color: #24292e;
+  font-family: SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace;
+  font-size: 12px;
+  overflow: visible;
+  white-space: pre;
+  word-wrap: normal;
+}
+
+.markdown-body .pl-token.active,
+.markdown-body .pl-token:hover {
+  background: #ffea7f;
+  cursor: pointer;
+}
+
+.markdown-body kbd {
+  background-color: #fafbfc;
+  border: 1px solid #d1d5da;
+  border-bottom-color: #c6cbd1;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #c6cbd1;
+  color: #444d56;
+  display: inline-block;
+  font: 11px SFMono-Regular,Consolas,Liberation Mono,Menlo,Courier,monospace;
+  line-height: 10px;
+  padding: 3px 5px;
+  vertical-align: middle;
+}
+
+.markdown-body :checked+.radio-label {
+  border-color: #0366d6;
+  position: relative;
+  z-index: 1;
+}
+
+.markdown-body .tab-size[data-tab-size="1"] {
+  -moz-tab-size: 1;
+  tab-size: 1;
+}
+
+.markdown-body .tab-size[data-tab-size="2"] {
+  -moz-tab-size: 2;
+  tab-size: 2;
+}
+
+.markdown-body .tab-size[data-tab-size="3"] {
+  -moz-tab-size: 3;
+  tab-size: 3;
+}
+
+.markdown-body .tab-size[data-tab-size="4"] {
+  -moz-tab-size: 4;
+  tab-size: 4;
+}
+
+.markdown-body .tab-size[data-tab-size="5"] {
+  -moz-tab-size: 5;
+  tab-size: 5;
+}
+
+.markdown-body .tab-size[data-tab-size="6"] {
+  -moz-tab-size: 6;
+  tab-size: 6;
+}
+
+.markdown-body .tab-size[data-tab-size="7"] {
+  -moz-tab-size: 7;
+  tab-size: 7;
+}
+
+.markdown-body .tab-size[data-tab-size="8"] {
+  -moz-tab-size: 8;
+  tab-size: 8;
+}
+
+.markdown-body .tab-size[data-tab-size="9"] {
+  -moz-tab-size: 9;
+  tab-size: 9;
+}
+
+.markdown-body .tab-size[data-tab-size="10"] {
+  -moz-tab-size: 10;
+  tab-size: 10;
+}
+
+.markdown-body .tab-size[data-tab-size="11"] {
+  -moz-tab-size: 11;
+  tab-size: 11;
+}
+
+.markdown-body .tab-size[data-tab-size="12"] {
+  -moz-tab-size: 12;
+  tab-size: 12;
+}
+
+.markdown-body .task-list-item {
+  list-style-type: none;
+}
+
+.markdown-body .task-list-item+.task-list-item {
+  margin-top: 3px;
+}
+
+.markdown-body .task-list-item input {
+  margin: 0 .2em .25em -1.6em;
+  vertical-align: middle;
+}
+
+.markdown-body hr {
+  border-bottom-color: #eee;
+}
+
+.markdown-body .pl-0 {
+  padding-left: 0!important;
+}
+
+.markdown-body .pl-1 {
+  padding-left: 4px!important;
+}
+
+.markdown-body .pl-2 {
+  padding-left: 8px!important;
+}
+
+.markdown-body .pl-3 {
+  padding-left: 16px!important;
+}
+
+.markdown-body .pl-4 {
+  padding-left: 24px!important;
+}
+
+.markdown-body .pl-5 {
+  padding-left: 32px!important;
+}
+
+.markdown-body .pl-6 {
+  padding-left: 40px!important;
+}
+
+.markdown-body .pl-7 {
+  padding-left: 48px!important;
+}
+
+.markdown-body .pl-8 {
+  padding-left: 64px!important;
+}
+
+.markdown-body .pl-9 {
+  padding-left: 80px!important;
+}
+
+.markdown-body .pl-10 {
+  padding-left: 96px!important;
+}
+
+.markdown-body .pl-11 {
+  padding-left: 112px!important;
+}
+
+.markdown-body .pl-12 {
+  padding-left: 128px!important;
+}
+
+  </style>
+  <style>
+  /**
+ * prism.js default theme for JavaScript, CSS and HTML
+ * Based on dabblet (http://dabblet.com)
+ * @author Lea Verou
+ */
+
+code[class*="language-"],
+pre[class*="language-"] {
+	color: black;
+	background: none;
+	text-shadow: 0 1px white;
+	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	font-size: 1em;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	word-wrap: normal;
+	line-height: 1.5;
+
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
+
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+}
+
+pre[class*="language-"]::-moz-selection, pre[class*="language-"] ::-moz-selection,
+code[class*="language-"]::-moz-selection, code[class*="language-"] ::-moz-selection {
+	text-shadow: none;
+	background: #b3d4fc;
+}
+
+pre[class*="language-"]::selection, pre[class*="language-"] ::selection,
+code[class*="language-"]::selection, code[class*="language-"] ::selection {
+	text-shadow: none;
+	background: #b3d4fc;
+}
+
+@media print {
+	code[class*="language-"],
+	pre[class*="language-"] {
+		text-shadow: none;
+	}
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+	padding: 1em;
+	margin: .5em 0;
+	overflow: auto;
+}
+
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+	background: #f5f2f0;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+	padding: .1em;
+	border-radius: .3em;
+	white-space: normal;
+}
+
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: slategray;
+}
+
+.token.punctuation {
+	color: #999;
+}
+
+.token.namespace {
+	opacity: .7;
+}
+
+.token.property,
+.token.tag,
+.token.boolean,
+.token.number,
+.token.constant,
+.token.symbol,
+.token.deleted {
+	color: #905;
+}
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+	color: #690;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string {
+	color: #9a6e3a;
+	background: hsla(0, 0%, 100%, .5);
+}
+
+.token.atrule,
+.token.attr-value,
+.token.keyword {
+	color: #07a;
+}
+
+.token.function,
+.token.class-name {
+	color: #DD4A68;
+}
+
+.token.regex,
+.token.important,
+.token.variable {
+	color: #e90;
+}
+
+.token.important,
+.token.bold {
+	font-weight: bold;
+}
+.token.italic {
+	font-style: italic;
+}
+
+.token.entity {
+	cursor: help;
+}
+
+  </style>
+  <style>
+  
+  </style>
+  <style>
+    .markdown-body {
+      font-family: -apple-system,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;
+      box-sizing: border-box;
+      min-width: 200px;
+      max-width: 980px;
+      margin: 0 auto;
+      padding: 45px;
+    }
+
+    @media not print {
+      .markdown-body {
+        padding: 45px;
+      }
+
+      @media (max-width: 767px) {
+        .markdown-body {
+          padding: 15px;
+        }
+      }
+    }
+
+    .hf-container {
+      color: #24292e;
+      line-height: 1.3;
+    }
+
+    .markdown-body .highlight pre,
+    .markdown-body pre {
+      white-space: pre-wrap;
+    }
+    .markdown-body table {
+      display: table;
+    }
+    .markdown-body img[data-align="center"] {
+      display: block;
+      margin: 0 auto;
+    }
+    .markdown-body img[data-align="right"] {
+      display: block;
+      margin: 0 0 0 auto;
+    }
+    .markdown-body li.task-list-item {
+      list-style-type: none;
+    }
+    .markdown-body li > [type=checkbox] {
+      margin: 0 0 0 -1.3em;
+    }
+    .markdown-body input[type="checkbox"] ~ p {
+      margin-top: 0;
+      display: inline-block;
+    }
+    .markdown-body ol ol,
+    .markdown-body ul ol {
+      list-style-type: decimal;
+    }
+    .markdown-body ol ol ol,
+    .markdown-body ol ul ol,
+    .markdown-body ul ol ol,
+    .markdown-body ul ul ol {
+      list-style-type: decimal;
+    }
+  </style>
+  <style>.markdown-body a.footnote-ref {
+  text-decoration: none;
+}
+
+.footnotes {
+  font-size: .85em;
+  opacity: .8;
+}
+
+.footnotes li[role="doc-endnote"] {
+  position: relative;
+}
+
+.footnotes .footnote-back {
+  position: absolute;
+  font-family: initial;
+  top: .2em;
+  right: 1em;
+  text-decoration: none;
+}
+
+.inline-math.invalid,
+.multiple-math.invalid {
+  color: rgb(255, 105, 105);
+}
+</style>
+  <style>.markdown-body{}pre.front-matter{display:none!important;}</style>
+</head>
+<body>
+  <article class="markdown-body"><pre class="front-matter">created: 2022-04-10T08:56:39 (UTC +02:00)
+tags: [Geopolitik, Ukraine]
+source: https://www.anti-spiegel.ru/2022/wie-geopolitik-funktioniert-und-worum-es-in-der-ukraine-wirklich-geht/
+author: Thomas Röper
+title: Wie Geopolitik funktioniert und worum es in der Ukraine wirklich geht – Anti-Spiegel
+</pre>
+<h1 class="atx" id="wie-geopolitik-funktioniert-und-worum-es-in-der-ukraine-wirklich-geht--anti-spiegel"><a href="https://www.anti-spiegel.ru/2022/wie-geopolitik-funktioniert-und-worum-es-in-der-ukraine-wirklich-geht/">Wie Geopolitik funktioniert und worum es in der Ukraine wirklich geht – Anti-Spiegel</a></h1>
+<p><strong>Ich stelle immer wieder fest, dass die meisten Menschen nur wenig Verständnis von Geopolitik haben. Daher will ich hier ein paar grundsätzliche Dinge darüber sagen.</strong></p>
+<p>Die meisten Menschen sind von den Ereignissen in der Ukraine emotional zutiefst aufgewühlt. Sei es, weil sie die Bilder schockieren, sei es, weil ein Krieg in Europa tobt, sei es, dass sie Angst vor einem neuen Weltkrieg haben, oder sei es wegen einer Kombination aus diesen und anderen Faktoren.</p>
+<h3 class="atx" id="geostrategie-und-emotionen">Geostrategie und Emotionen</h3>
+<p>Diese Emotionalisierung ist gewollt, denn wer emotionalisiert, also wütend, verängstigt, entsetzt und so weiter ist, dessen Fähigkeit zu rationalem Denken ist ausgeschaltet. Und wer nicht rational, sondern emotional denkt, der ist über seine Emotionen leicht lenkbar. Das ist ein bewährtes Mittel zur Lenkung der Massen.</p>
+<p>Wenn wir aber Geopolitik verstehen wollen, müssen wir vollkommen trocken und „gefühllos“ analysieren. Geopolitik ist wie ein Schachspiel und wir alle wissen, dass noch nie jemand ein Schachspiel mit Emotionen gewonnen hat, sondern dass immer der gewinnt, der besser und kaltblütiger analysiert. Das gilt auch für den Beobachter eines Schachspiels, der das Spiel und die Strategien der Spieler nur verstehen kann, wenn er das Spiel genauso kalt und sachlich beobachtet, wie die Spieler es spielen.</p>
+<p>In der Geopolitik sind diese Beobachter des Spiels die Analysten, zu denen ich mich zähle. Man muss die politischen Ereignisse beobachten, wie ein Schachspiel. Wenn man beim Schach Mitgefühl mit dem Bauern hat, der als das bekannte „Bauernopfer“ geschlagen vom Feld genommen wird, dann hat man das Spiel nicht verstanden. Der Bauer ist nur eine Figur und er wurde geopfert, um für seine Seite einen Vorteil zu generieren, indem er zum Beispiel im Tausch gegen einen Läufer geopfert wurde.</p>
+<h3 class="atx" id="das-geopolitische-schachbrett">Das geopolitische Schachbrett</h3>
+<p>In der Geopolitik sind Länder und Völker die Spielfiguren. Wer Geopolitik verstehen will, der muss denken, wie ein Geostratege. Und einem Geostrategen ist es vollkommen egal, ob ein Land zerstört und hunderttausende Menschen dabei ermordet werden, für den Geostrategen zählt nur, dass seine Seite dabei einen Vorteil erlangt hat und dass die Gegenseite dabei geschwächt wurde. Das zerstörte Land und die hunderttausenden unschuldigen Toten sind das Baueropfer. Und der Geostratege hat mit denen genauso wenig Mitgefühl, wie der Schachspieler mit dem aus Holz geschnitzten Bauern, den er gegen einen Läufer des Gegners getauscht hat.</p>
+<p>Das ist zynisch, aber so ist die Realität in der Geopolitik. Ich bin froh, dass ich „nur“ Analyst bin. Ich beobachte und kann – während ich an meinen Analysen arbeite – meine Gefühle ausblenden. Ich könnte kein Geostratege sein, der diese Entscheidungen trifft, die „bei Bedarf“ hunderttausenden Menschen den Tod bringen.</p>
+<p>Zum Verständnis der Geopolitik müssen wir wissen, dass sie so funktioniert, wie ich es gerade beschrieben habe, und dass die Entscheider die Welt als Schachbrett ansehen, wobei die Länder und ihre Völker die Figuren sind. Die mächtigen Staaten – vor allem die USA, Russland und China – sind die Spieler und alle anderen Staaten sind die Spielfiguren, so müssen wir uns das in einer – zugegeben etwas vereinfachten Darstellung – vorstellen. Und verschiedene Länder sind verschieden wichtig und mächtig, einige sind nur Bauern, andere sind Läufer, Springer oder Türme. Aber sie sind von den Entscheidungen der Spieler abhängig, sie sind trotzdem nur Spielfiguren.</p>
+<h3 class="atx" id="interessen-oder-freundschaft">Interessen oder Freundschaft?</h3>
+<p>Nachdem wir verstanden haben, dass Geopolitik nur wenig mit Menschlichkeit zu tun hat, hat sich die Frage, ob es unter Staaten Freundschaften gibt, eigentlich schon wieder erledigt. Die Antwort ist nein, es gibt in der Geopolitik keine Freundschaften, auch wenn Politiker uns gerne erzählen, zum Beispiel die USA oder Frankreich wären Deutschlands Freunde.</p>
+<p>In der Geopolitik geht es um handfeste Interessen. Dass zum Beispiel Russland und China heute „eng befreundet“ sind, liegt daran, dass sie in sehr vielen Bereichen die gleichen Interessen haben. Sie sind an Stabilität in Asien interessiert, weil kein Staat gerne Unruhe in der Nähe seinen Grenzen hat. Russland ist an Chinas Technologie und industrieller Macht interessiert, China braucht Russlands Rohstoffe und auch Unterstützung auf den Technologiefeldern, auf denen Russland führend ist.</p>
+<p>Hinzu kommt, dass die beiden Staaten von den USA regelrecht zur Zusammenarbeit gezwungen werden, weil die USA beide Staaten offiziell zu ihren Gegnern erklärt haben, die die USA seit Jahren offen mit Sanktionen und anderen Mitteln bekämpfen. Die USA wollen die Weltmacht Nummer eins bleiben, also die Weltherrschaft behalten. Das nennt sich unipolare Welt, in der es nur einen Machtpol gibt.</p>
+<p>Russland und China teilen daher das Interesse, diesen Machtpol, der sie zu Feinden erklärt hat und sie bekämpft, zu brechen. Sie streben eine Weltordnung an, in der es keine dominierende Macht gibt, die allen anderen ihre Regeln aufzwingen kann und möchte. Sie streben eine multipolare Welt an, in der es mehrere, gleichberechtigte Machtpole gibt, die ihre Interessen auf Augenhöhe besprechen und Lösungen suchen, ohne dass einer den anderen dominiert.</p>
+<p>Wenn sich Staaten zusammenschließen, dann steckt dahinter keine Freundschaft, sondern die Tatsache, dass sie gemeinsame Interessen haben.</p>
+<p>Das ist – grob gesagt – die aktuelle Konstellation auf dem geopolitischen Schachbrett.</p>
+<h3 class="atx" id="die-vorgeschichte">Die Vorgeschichte</h3>
+<p>Die USA sind auf dem Spielbrett derzeit in der Defensive. Sie haben den Höhepunkt ihrer Macht in den 1990er und 2000er Jahren erlebt. Die Sowjetunion war zerfallen, Russland war schwach, China war noch ein rückständiges Land. Die USA konnten auf der Welt schalten und walten, wie es ihnen gefiel und das haben sie auch getan. Sie waren die Weltmacht, das Imperium, wie Historiker eine Weltmacht nennen.</p>
+<p>Aber in den 2000er Jahren ist Russland unter Putin wieder „auf die Füße“ gekommen und auch Chinas Aufstieg verlief in der Zeit rasant. In den 2010er Jahren war China bereits eine selbstbewusste Weltmacht, Russland war noch zurückhaltender und sich seiner eigenen Kraft noch nicht wirklich sicher.</p>
+<p>Die Entscheidung bei Russland kam mit dem Maidan 2014, als Russland sich gezwungen sah, den Ambitionen der USA in Russlands „Hinterhof“ entgegenzutreten. Wie sich herausstellte war Russland bereits gefestigt und wirtschaftlich stark genug, um die Sanktionen, mit denen die USA Russland für sein „Aufmucken“ bestraft haben, zu überstehen. Russland wurde durch den Sanktionsdruck sogar noch stärker, was die Verantwortlichen in Washington zunächst nur irritiert, dann aber zunehmend in Angst versetzt haben dürfte. Die Sanktionen sind an Russland regelrecht abgeperlt.</p>
+<p>China wurde erst später von den USA angegangen. Das geschah ab 2017 unter Präsident Trump, der China zum Gegner Nummer eins ausgerufen hatte, weil China angefangen hat, die wirtschaftliche Dominanz der USA zu bedrohen. Die wirtschaftliche Dominanz der USA ist aber die Grundlage für ihre militärische Dominanz, weshalb China in Wahrheit für die USA der wichtigere Gegner ist, als Russland.</p>
+<h3 class="atx" id="eurasien">Eurasien</h3>
+<p>Der Schlüssel zur Weltmacht, zur „Worldwide Dominance“, wie die USA es nennen, ist die Herrschaft über Europa und Asien, den sogenannten eurasischen Kontinent. Wer dort herrscht, der beherrscht die Welt. Das ist der Grund, warum die USA Russland als gefährlichen Gegner ansehen.</p>
+<p>Russland selbst hat keine agressiven Absichten gegen niemanden, Russland hat mehr Land und Bodenschätze, als es braucht und wäre auf die nächsten hundert Jahre damit beschäftigt, sein riesiges Land zu entwickeln. Aber das ist das Problem: Russland ist ein riesiges Land auf dem eurasischen Kontinent und damit ein Problem für die USA, wenn es sich dem Willen der USA nicht unterordnet. Und genau diese Unterordnung verweigert das unter Putin wieder selbstbewusst gewordene Russland.</p>
+<p>Dass Russland keinerlei aggressiven Absichten hat, ist nicht meine blühende Fantasie oder russische Propaganda, das hat einer der mächtigsten Think Tanks der USA, die RAND-Corporation, schon 2019 in einer Studie herausgearbeitet. Darüber war man in den USA aber nicht etwa erfreut, man war stattdessen verärgert und hat sich daher Gedanken gemacht, wie man Russland so reizen kann, dass es endlich mal aggressiv reagiert, die Details der Studie <a href="https://www.anti-spiegel.ru/2019/russland-hat-keine-aggressiven-absichten-us-strategiepapier-erklaert-die-wahren-gruende-der-us-politik/">finden Sie hier</a>.</p>
+<p>Das mag für Sie unverständlich klingen, ist aber eine logische Folge, wenn man geopolitisch denkt. Die USA mussten eine Koalition schmieden, um Russland in die Knie zu zwingen, denn es behindert, solange es den USA gegenüber ungehorsam ist, auch ohne irgendwen zu bedrohen, schon aufgrund seiner schieren Größe den US-Anspruch, die dominante Macht in Eurasien zu werden.</p>
+<p>Aber wie schmiedet man eine Koalition gegen einen friedlichen Nachbarn? Ganz einfach: Indem man ihn so sehr reizt, dass er nicht mehr friedlich reagiert, und dann kann man den anderen sagen: „Seht her, Russland ist gefährlich, wir müssen uns zusammentun und Russland stoppen!“</p>
+<p>So zynisch funktioniert Geopolitik und deshalb war die Erkenntnis der RAND-Corporation, Russland habe keinerlei aggressive Absichten, für die USA eine schlechte Nachricht.</p>
+<h3 class="atx" id="spielfiguren">Spielfiguren</h3>
+<p>Die Ukraine war nach dem Zusammenbruch der Sowjetunion das Land mit dem besten Potenzial in Osteuropa. Das Land hatte eine – zwar marode – aber trotzdem leistungsfähige Industrie mit durchaus konkurrenzfähigen Produkten. Es gab Flugzeugbau, Schiffbau, Weltraumtechnik, Nukleartechnik und Schwerindustrie, außerdem ist die Ukraine reich an Bodenschätzen wie Kohle und hat die fruchtbarsten Böden Europas, wahrscheinlich sogar der Welt.</p>
+<p>Aber im Westen wollte man keine Konkurrenz in der Industrie und da traf es sich gut, dass sich bei der vom Westen geförderten Privatisierung kurzfristig denkende, gierige Oligarchen die Filetstücke des Landes sicherten. Die Ukraine hat ihr Potenzial nie genutzt, sie blieb ein Leichtgewicht in Europa, im Schach würde man sagen, sie ist ein Bauer. Sie hätte zu einer Dame werden können, aber wer hat schon ein Interesse daran, dass ein potenzieller Gegner plötzlich eine Dame auf dem Brett stehen hat?</p>
+<p>Aufgrund der aus Sowjetzeiten engen familiären Bindungen der Menschen und der engen wirtschaftlichen Verflechtungen zwischen der Ukraine und Russland war die Ukraine aber ein sehr wichtiger Bauer. Zusammen mit Russland hätte die Ukraine zu einer Dame werden können und Russland selbst hätte sich viel schneller entwickeln können.</p>
+<p>Das zu verhindern, war schon in den 90er Jahren eines der wichtigsten Ziele der Geostrategen in Washington, wie der einflussreiche Geostratege Zbigniew Brzeziński schon 1997 in seinem wichtigen Standardwerk „Die einzige Weltmacht“ detailliert ausgeführt hat. In dem Buch kann man im Grunde das nachlesen, was in den folgenden zwei Jahrzehnten geschehen ist. Die USA haben die anti-russischen Kräfte in der Ukraine massiv gefördert, um einen Keil zwischen Russland und die Ukraine zu treiben. So blieb die Ukraine, die potenzielle russische Dame, ein schwacher Bauer.</p>
+<p>Dass die Menschen in der Ukraine seit 30 Jahren in Armut leben, spielt für die Geostrategen dabei keine Rolle, denn Geopolitik ist nun einmal zynisch und nicht menschenfreundlich.</p>
+<h3 class="atx" id="der-kampf-um-den-bauern">Der Kampf um den Bauern</h3>
+<p>Da Russland immer stärker wurde, wuchs aus Sicht der USA die Gefahr, dass die Ukraine und sich Russland zuwenden könnte, denn Russland wurde für viele Nachbarn ein attraktiver Partner. Wenn ein Zusammengehen mit Russland zu mehr Wohlstand bei den Ukrainern geführt hätte, hätte die Ukraine den Einflussbereich der USA verlassen können. Das galt es aus Sicht der USA zu verhindern.</p>
+<p>Russlands Interessen waren andere, Russland wollte die Ukraine nicht zu einem Satelliten machen. Russland war aufgrund der NATO-Osterweiterungen und der immer konfrontativeren Politik der EU an einer Brücke zu Europa interessiert. Die Ukraine hätte aus russischer Sicht erstens ein Puffer zwischen der NATO und Russland, und zweitens eine Brücke zu Europa werden sollen, über die Wirtschaft, Handel und kultureller Austausch hätten laufen können.</p>
+<p>Russlands Interesse und Putins großes Ziel, das er schon <a href="https://www.youtube.com/watch?v=hSPZlCo2B0E">2001 in seiner Rede im Bundestag</a> umrissen hat, war der große gemeinsame Raum von Lissabon bis Wladiwostok, in der europäische Industrie und Technologie zusammen mit russischen Bodenschätzen und Manpower eine gemeinsame Macht gebildet hätten, in der die EU und Russland aufeinander angewiesen gewesen wären, ohne dass einer den anderen dominieren könnte. Die Ukraine war der letzte Schlüssel zu diesem Ziel, nachdem die USA die baltischen Staaten in die US-dominierte NATO gezogen hatten und Weißrussland vom Westen geächtet war.</p>
+<p>Daher war es das oberste Ziel der USA in Europa, die Ukraine endgültig und nachhaltig von Russland zu trennen. Der von den USA orchestrierte und finanzierte Maidan-Putsch, der in Kiew anti-russische, ja sogar <a href="https://www.anti-spiegel.ru/2022/wie-der-westen-nazis-verteidigt/">neonazistische Regierungen</a> an die Macht gebracht hat, war ein wichtiger Sieg für die USA. Aber die USA hatten aus der Vergangenheit gelernt, denn es hatte vorher schon die Orangene Revolution gegeben, die aber nicht endgültig gewesen ist und nach der wieder ein eher pro-russischer Präsident die Wahlen gewonnen hatte. Den hatte man mit dem Maidan erfolgreich weggeputscht.</p>
+<p>Um eine Wiederholung „ungewollter“ Wahlergebnisse zu verhindern, brauchten die USA etwas, das den Keil unumkehrbar zwischen die Ukraine und Russland treiben konnte. Und was ist dazu besser geeignet, als ein Krieg? In meinem <a href="https://www.anti-spiegel.ru/2022/eine-ergaenzte-und-ueberarbeitete-version-meines-ukraine-buches-erscheint/">Buch über die Ukraine-Krise von 2014</a>, das gerade in einer überarbeiteten Version erscheint, habe ich aufgezeigt, dass es der CIA-Chef war, der den damaligen Machthabern in Kiew den Krieg im Donbass befohlen hat. Er war bei der entscheidenden Sitzung des ukrainischen Sicherheitsrates inkognito in Kiew dabei, wie das Weiße Haus nur Tage später eingestehen musste.</p>
+<p>Der Krieg im Donbass war der eigentliche Sieg der USA, denn damit konnte man die ukrainische Bevölkerung gegen Russland einschwören und vor allem war dadurch, dass die russische besiedelte Krim und der russische besiedelte Donbass nicht mehr an Wahlen in der Ukraine teilnehmen konnten, sichergestellt, dass nur noch anti-russische Kräfte bei Wahlen gewinnen.</p>
+<p>Der Bauer Ukraine war endgültig unter die Kontrolle der USA geraten.</p>
+<h3 class="atx" id="das-bauernopfer">Das Bauernopfer</h3>
+<p>Die USA hatten danach immer noch das große Ziel, ihre beiden Gegner im Kampf um die Macht in Eurasien zu besiegen, der Maidan war nur ein kleiner, aber wichtiger Schritt. Der Kampf gegen China ist ein anderes Thema, daher bleiben wir bei Russland.</p>
+<p>Russland wurde trotzdem immer stärker, auch alle ab 2014 unter allen möglichen Vorwänden verhängten Sanktionen konnten daran nichts ändern. Während westliche Experten 2014 Russlands baldigen Staatsbankrott und Zusammenbruch prophezeiten, wurde Russland trotzdem immer stärker, seine Wirtschaft wuchs, die Devisenreserven verdoppelten sich und auch der Wohlstand der Menschen blieb erhalten.</p>
+<p>Die schon erwähnte RAND-Corporation hat 2019 eine weitere <a href="https://www.anti-spiegel.ru/2020/sie-gehen-ueber-leichen-us-strategiepapier-zeigt-detailliert-was-die-usa-gegen-russland-planen/">354-seitige Studie verfasst</a>, in der sie im Detail ausgearbeitet hat, wie man Russland schwächen könnte. Ich habe der Studie eine 20-teilige Serie gewidmet, in der ich aufgezeigt habe, was die USA geplant haben, um Russland zu schwächen. Fast alles, was in der Studie vorgeschlagen wurde, wurde in der Folge umgesetzt, man kann die Macht dieser Geostrategen in den USA gar nicht hoch genug einschätzen.</p>
+<p>Das beste Mittel, einen geopolitischen Gegner zu schwächen, ist es, ihn in einen teuren Stellvertreterkrieg zu treiben. Das Prinzip ist nicht neu, wir kennen das aus Vietnam und Afghanistan. Ein Stellvertreterkrieg ist für den Gegner teuer, er kostet Menschenleben, was zu Unzufriedenheit, Instabilität und Unruhe im Innern führen kann, und er lässt sich propagandistisch verwerten, um andere Länder gegen den Gegner aufzubringen und ihn so auch außenpolitisch zu schwächen.</p>
+<p>In der Strategie der RAND-Corporation war unter anderem enthalten, Russland mit der Stationierung von Atomwaffen nahe seiner Grenzen zu reizen. Zur Ukraine konnte man in der Studie der RAND-Corporation <a href="https://www.anti-spiegel.ru/2020/welche-massnahmen-die-usa-gegen-russland-planen-teil-2-ukraine/">schwarz auf weiß lesen</a>, dass die USA keinerlei Interesse an einem Frieden im Donbass haben, sondern den Krieg dort nach Belieben nutzen wollten, um Russland zu reizen und Kosten für Russland zu erzeugen.</p>
+<p>Der ukrainische Präsident Selensky hat Ende Februar auf der Münchner Sicherheitskonferenz offen mit der Entwicklung und <a href="https://www.anti-spiegel.ru/2022/russische-propaganda-oder-wahrheit-hat-selensky-mit-der-atomaren-aufruestung-der-ukraine-gedroht/">Stationierung eigener Atomwaffen in der Ukraine gedroht</a>. So etwas sagt ein Präsident nicht einfach so aus einer Bierlaune heraus, wer so etwas öffentlich ankündigt, hat es entweder schon umgesetzt, oder man steht kurz davor. Und Selensky konnte das nicht ohne Rückendeckung aus Washington verkünden.</p>
+<p>Damit war eingetreten, was die RAND-Corporation angestrebt hat: Russland hatte die Wahl zwischen Pest und Cholera, es konnte Atomwaffen an seiner Grenze, noch dazu unter Kontrolle eines von radikalen Anti-Russen regierten Staates zulassen, oder versuchen, das im letzten Moment militärisch zu verhindern. Russland entschied sich für letzteres, was ganz im Interesse der RAND-Corporation und damit der USA war.</p>
+<p>In der Ukraine tobt nun ein für Russland teurer Stellvertreterkrieg, den die USA nach allem Kräften ausschlachten, um Russland wirtschaftlich zu schwächen, Koalitionen gegen Russland zu schmieden und so weiter. Die USA hoffen, Russland mit diesem Stellvertreterkrieg endlich endgültig zu schwächen und in die Knie zwingen zu können, was sie ja auch ganz offen sagen, wenn es in Washington heißt, das Ziel sei es, die russische Wirtschaft zu zerstören.</p>
+<p>Wie gesagt, Geopolitik ist menschenverachtend und zynisch. Aber so funktioniert sie nun einmal.</p>
+<h3 class="atx" id="die-emotionen-am-kochen-halten">Die Emotionen am Kochen halten</h3>
+<p>Das wissen jedoch die wenigsten Menschen, die lassen sich von stattdessen von den schrecklichen Bildern emotionalisieren und fordern Maßnahmen gegen den angeblich satanischen Feind, auch wenn es zum eigenen Schaden ist. Aktuell kann man das an Parolen wie „frieren gegen Putin“ beobachten. Die Geostrategen, die natürlich nicht frieren werden, freuen sich, wenn sie solche Parolen hören, über die Dummheit der Menschen, die gar nicht verstanden haben, worum es in Wahrheit geht.</p>
+<p>Die „dumme“ Masse ist nun einmal problemlos lenkbar, das wussten schon die Senatoren im alten Rom, als sie dem Volk etwas erzählten, es müsse seine Söhne im Krieg gegen Karthago opfern, weil das seine Kinder heidnischen Göttern opfert, was nun wirklich barbarisch sei. Das war, wie Archäologen inzwischen herausgefunden haben, genauso frei erfundene Kriegspropaganda, wie die heutigen Parolen über Menschenrechte. Wichtig ist nur, die „dumme“ Masse zu emotionalisieren, damit sie bereit ist, für die Ziele der Reichen und Mächtigen zu leiden, Opfer zu bringen oder sogar als Soldaten zu sterben.</p>
+<p>Und wenn wir uns an den Beginn dieses Artikels erinnern, ist auch heute wieder das größte Problem, dass die Menschen so emotionalisiert sind, dass sie ihr analytisches Denken ausschalten. Das macht die Masse so leicht lenkbar, man muss nur die Emotionen am Kochen halten.</p>
+<p>Und dafür gibt es ja die Medien…</p>
+<hr>
+<p>clipped by MarkDownload 2022-04-10</p>
+</article>
+</body>
+</html>
