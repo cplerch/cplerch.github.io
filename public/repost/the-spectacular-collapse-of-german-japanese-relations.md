@@ -8,7 +8,7 @@ title: Masters and Emissaries The Spectacular Collapse of German-Japanese Relati
 
 # [Masters and Emissaries The Spectacular Collapse of German-Japanese Relations under Forced Globalism | The Vineyard of the Saker](http://thesaker.is/masters-and-emissaries-the-spectacular-collapse-of-german-japanese-relations-under-forced-globalism/)
 
-**By Thorsten J Pattberg for the Saker Blog**
+*By Thorsten J Pattberg for the Saker Blog*
 
 In June 2022, I happened to attend a public lecture by the German Ambassador at the German House in Tokyo. What the good man was chatting out of the political box … that was foolish of him!
 
@@ -24,7 +24,7 @@ The red-brick house has been in need of serious renovation works during the last
 
 The Japanese don’t want to learn German, and they don’t want to have much to do with the Germans.
 
-**Irreconcilable** **I****deological** **D****ifferences**
+**Irreconcilable Ideological Differences**
 
 The Germans are on the verge of giving up their Germanness and becoming Accessory Americans. They all speak American here. They communicate in American with the Japanese. They no longer translate from Japanese at all. They look for American articles, news, or translations about Japan that have already been successful in Anglo-Saxon countries, and then translate these American translations into German—_baka_ \[stupid\]!
 
@@ -36,7 +36,7 @@ The Germans, however, are cut out for this. They are instructing the Japanese: s
 
 The Germans are in no way above the Japanese. That’s how it is, but the _Allemands_ \[ancient name for Germans\] still think they are closer to Americans because, to the untrained eye, they pretty much look similar. In reality, the Germans in Japan do not command the same high status as the Americans or their Anglo-allied British and Canadians. One could say the Germans here are delusional and oblivious to the actual human hierarchy.
 
-**Trust is** **G****one**
+**Trust is Gone**
 
 German elites talk down to the Japanese as if they represent the West. Their cowardly actions, however, speak for something different: For a treacherous, cynical impostor people.
 
@@ -58,7 +58,7 @@ The Japanese, on the other hand, recognize our German qualifications, and why sh
 
 If there were to be an independent audit of German bureaucrats in Japan, which there won’t, it would almost certainly attest to the German side a sinister ‘obstruction of true exchange’. **For the Japanese, exchange with Anglo-Saxon countries seems so uninhibited and exciting; exchange with Germany is just toxic and ungrateful.**
 
-**Living like** **C****olonial** **V****iceroys**
+**Living like Colonial Viceroys**
 
 The ambassador and his gloves live in the lap of Oriental luxury in the diplomatic quarter, with its insane level of rents and posh boutiques and classic wine shops that only legation councilors—with A13+ or higher expenses \[upper regime caste level of state support\] with their monthly overseas allowances of 12,460 euros—can afford. Meanwhile, 95% of the \[disadvantaged\] Germans don’t live here—they scatter all over town, avoid the toxic community if they can, and live in obscurity and destitution.
 
@@ -70,7 +70,7 @@ So, Germany is pushing a huge class divide. Take the underclass problem. 20 % of
 
 This means that no one of these slaves is free. The state controls all its citizens’ bank accounts, housing, schools and medical access. It tries to prevent its citizens from emigration \[leaving the country\] through terror, sanctions and prosecutions. For example, the regime threatens families that work experience, diplomas, degrees and titles _earned abroad_ are disqualifying, and will have to be retaken or overwritten by German ones. This is called _Umschulung_—it means “re-education”—and is huge part of the tyranny. It happened to 300,000 academics in Eastern Germany since 1991 who made the terrible mistake of having studied or worked in Poland, the Balkans, Ukraine, Russia, China and even Vietnam. It also happened to 800,000 nurses, bricklayers, taxi drivers and other blue-color workers: the BRD will not accept foreign qualifications. It sends a clear message to families even whilst their children are still in school: Don’t think about going abroad: you will be a nobody.
 
-**Most people just can‘t leave. It is impossible. The situation now in 2022 is worse than communism in 1922. People were much** **_freer_** **back then, because “owning nothing” meant 0, meant** **_nothing_****. So people could just leave.** Today, people are minus people. This means they are indebted, and can sink well below 0. The state signs them up at birth for a lifetime of slave work, blood and toil. A person that departs from Cottbus in Eastern Germany and settle over in Poland would be detected within 72 hours. Police and prosecutors will visit his old place, his families and relatives, and harass them with fines and expropriate his outstanding rents and belongings.
+**Most people just can‘t leave. It is impossible. The situation now in 2022 is worse than communism in 1922. People were much _freer_ back then, because “owning nothing” meant 0, meant** **_nothing_****. So people could just leave.** Today, people are minus people. This means they are indebted, and can sink well below 0. The state signs them up at birth for a lifetime of slave work, blood and toil. A person that departs from Cottbus in Eastern Germany and settle over in Poland would be detected within 72 hours. Police and prosecutors will visit his old place, his families and relatives, and harass them with fines and expropriate his outstanding rents and belongings.
 
 Bills of outstanding subsequent payments _in absentia_ will pile up, from private creditors who now can be assured of obtaining a court order, over compulsory health insurance schemes to regime radio fees and bank fees. All costs of living expenses will clock forth for months and years without the person to extract the money from being around for questioning, so late fees and lawyers fees and search fees will triple and quadruple.
 
@@ -82,7 +82,7 @@ Usually, the public would assume that people around the world call upon their di
 
 The _doitsu_ \[deutsch\] immigrants in Japan and elsewhere in East Asia work as petty freelancers with no stable income, as second-rate English teachers or false “Germanists” \[Professors for German Studies\] at third-tier colleges and universities, and mostly live off the income of their Asian working wives.
 
-**The German-Japanese** **_H_****_afus_**
+**The German-Japanese Hafus**
 
 The thing about Western men and their Japanese wives or “apron women” in general is really pronounced here in Tokyo. An anthropological study should be taken on this, but won’t. Can you imagine Asian men studying European men as monkey-branching man-apes, basically in the same manner the European men studied African men in the past? That would be a historic comeuppance, but also sad.
 
@@ -110,7 +110,7 @@ Unfortunately, anyone observing the ruling people here for many years soon reali
 
 The German diaspora, the cross-bred people, for 150 years never built a German town or anything like it. For some reason, they are unlikable. And many of them look hideous, too. Under the harsh Darwinian conditions of social selection _in situ_ \[on the premise\], given they were not exactly handsome samples of German stock to begin with, the early migrants could only father offspring with ill-favored leftover Japanese women who multiplied themselves at the stroke of midnight. The result is often subpar _hafus_ (half-Asians), now facing a life full of painful rejections and massive disappointment.
 
-**The** **D****eadly** **P****lague and** **T****he** **E****xpat** **C****ommunity**
+**The Deadly Plague and the Expat Community**
 
 The ambassador was not wearing his plague mask. Not in the lecture itself. And not afterwards either, in the anteroom, over drinks with pretzels and bitter apple spritzer. He didn’t like the monkey business about the irrational coronavirus measures: constantly pulling those scratchy rubber bands on his face. Us guests, his servants and the catering service hoi-polloi had to put on medical-looking antiseptic blue hygiene masks, covering our reddened mouths, beards and large noses. We also had to stand a good five feet apart.
 
@@ -132,7 +132,7 @@ There was the eminent Professor Emeritus Herr St., old like Hanako the fish. The
 
 About 50 people in the audience, all Japan experts in decay. **And a spectacular 2 (!) Japanese persons also sat in the room. Two! When the ambassador of the Federal Republic of Germany announces a public lecture on German-Japanese relations, just** **_two_** **Japanese show up!**
 
-**Fooled** **O****nce,** **F****ooled** **T****wice,** **E****xport** **N****ations**
+**Fooled Once, Fooled Twice, Export Nations**
 
 “Thank you for coming in such large numbers,“ the House speaker greeted us. “This would certainly not have been possible without the Academic Exchange Service also informing its members. Thanks very much!“ The ambassador probably thought Now that is depressing, nobody here that matters. And then he knocked out the most unbelievable numbers:
 
@@ -162,7 +162,7 @@ Fake transactions are not entirely the fault of the subscribers. Fake value is c
 
 That’s not free trading. We‘ve just learned that _Lexus_ and _Audi_ are not supply and demand. The US forces all nations to export \[and import what others export\] regardless of markets. A car that is sold in the same country where it was built must no longer be. No—it has to come from various international suppliers from all over the world, shipped around as much as possible, and by no means it can be _rare_. If it was rare, as resources should be, then the “export” of such rare materials would be nonsensical—then we would keep the rare stuff to ourselves… consume it… and this would immediately stop us from being “exporting nations.” Such a rational behavior cannot be tolerated by the USA and its global allies. You must export!, they cry. The two US forge worlds, Germany and Japan, were set up to be commentary economies or “export nations,” building stuff for the Empire at no costs for the Empire (the money is US dollar debt of those colonies).
 
-**Embassies are** **R****elics of the** **C****olonial** **P****ast**
+**Embassies are Relics of the Colonial Past**
 
 “The good thing,” said the ambassador, “is that as an ambassador to Japan, I don’t have to concern myself as much with economic issues, because the CEOs \[Chief Executive Operators\] work that out among themselves.” Yes but for sinister reasons, Your Honor. German and Japanese multinationals operate under American “international law,” so banking, transaction, exchange and jurisdiction go over the heads of the colonial emissaries. “It was all different in China,” he sighed, because “the Chinese Communist Party always summons their foreign ambassadors for all trade agreements.” Well, that was because China is a sovereign nation and a great power, so _formal consultations_ are necessary. **Trade between two US colonial branches on the other hand just require** **_technical consultations_****. Ambassadors are** **_technically redundant_****.**
 
@@ -172,13 +172,13 @@ Trade and all other relations with Japan have plummeted. “By about half, thank
 
 We can’t report any of it. That would make people realize that the German mission in Japan was incompetent and pointless. Those colonial bureaucrats get rich from ruining the target economies, so what is ruinous for the Japanese people is empowering for the German emissaries.
 
-**They are preserving their imaginative colonial privileges. And the perfect colony is one where the viceroy is a** **_roy_****, a king, and the locals are serfs and peasants.** You don’t believe it? The Western system of embassies is reminiscent of Western imperialism. The foreign envoys are still there exploiting the natives, abusing their colonial office and giving orders. All we need reporting from here and whence is that “relations have never been better.”
+**They are preserving their imaginative colonial privileges. And the perfect colony is one where the viceroy is a *_roy_, a king, and the locals are serfs and peasants.** You don’t believe it? The Western system of embassies is reminiscent of Western imperialism. The foreign envoys are still there exploiting the natives, abusing their colonial office and giving orders. All we need reporting from here and whence is that “relations have never been better.”
 
 You can’t get through to the journalists here from the _Süddeutsche Zeitung_ or the _Frankfurter Allgemeine Zeitung_. They wouldn’t tangent their own relevance in Japan. They are part of the problem. They can’t confess “we are superfluous.” They must repeat: “relations are as good as ever.”
 
 For example, well-paid cultural attachés of the Federal Republic curate the figures they send to Berlin so that their expat packages, seasonal flights and private schools for the children are not compromised: “Relations have never been better.” They are even implying that they deserve a pay rise for their good work. Meanwhile, they have to dismantle their own projects, their staff, sell the coffee machine, rent out space and invent fake items for book-keeping, for example cultural events that never happened or research projects that were done by unpaid interns and postdocs.
 
-**They** **L****ie** **T****hey** **A****re** **C****apitalist,** **W****hile** **B****eing** **R****un** **B****y** **T****he** **S****tate**
+**They Lie They Are Capitalist, While Being Run By The State**
 
 Under socialism, the economy is getting better and better \[and crime rates lower and lower, but that aside\], and all government goals have been met or even surpassed. The emissaries are not _lying_ as far as their own foray into self-enrichment goes: The German state and its Foreign Office are expanding at the fastest pace, while the working population is taxed 80 % to 90 % of its income \[income tax is 50 %, consumer tax 9 % or 18 %, insurance, energy bills, transportation costs, fines, endless fees and charges throughout your life, wealth tax, death bill, inheritance tax\]. Therefore, state officials have no salary or wage, only expenses and disbursements. If they needed an airplane, that‘s not even in their tax filings.
 
@@ -194,7 +194,7 @@ Note how their performance is purely _functional_. They mustn’t be creative or
 
 This system is so water-tight, it is physically impossible to leak “wrong” \[true\] reporting to the public. If a dissident is caught with “wrong thought,“ he will disappear or anyway won’t be able to find work again. Hundreds of them still linger here in the streets. Impoverished, sorry, repentant.
 
-**We** **A****re** **A****ddicted** **T****o** **L****ies**
+**We Are Addicted To Lies**
 
 If you understand and recognize this epic factory of lies and manipulations, then nothing they spin or allege about German-Japan relations can surprise you anymore. And yes, all _SPIEGEL_ reporting on ‘robot dogs’ in the 80s, 90s, 2000s, 2010s and 2020s were all make-believe. Nobody here has robot dogs. If anything, in 2021, the Japanese bought a record number of 20 million pet dogs.
 
