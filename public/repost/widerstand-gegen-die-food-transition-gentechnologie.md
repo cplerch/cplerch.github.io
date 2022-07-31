@@ -202,18 +202,6 @@ Unter dem Deckmantel des „Klimanotstandes“ erleben wir derzeit, wie der glob
 
 Zu sagen, dass ein einziges Landwirtschaftsmodell nun von allen Ländern akzeptiert werden muss, ist die Fortsetzung einer kolonialistischen Denkweise.
 
-___
-
-#### Unsere Arbeit ist spendenfinanziert – wir bitten um [Unterstützung](https://tkp.at/unterstuetzen/).
-
-#### Folge uns auf Telegram und [GETTR](https://gettr.com/user/tkp_at)
-
-___
-
-[„Reset the Table“ als Teil des „Great Reset“ – Drohende Nahrungsmittelknappheit ist kein Zufall](https://tkp.at/2022/07/04/reset-the-table-als-teil-des-great-reset-drohende-nahrungsmittelknappheit-ist-kein-zufall/)
-
-[UN-Bericht: Globale Abschottungspolitik treibt über 150 Millionen Menschen in den Hungertod](https://tkp.at/2022/07/11/un-bericht-globale-abschottungspolitik-treibt-ueber-150-millionen-menschen-in-den-hungertod/)
-
-[Niederlande massive Proteste von Bauern und Fischern, schießende Polizei](https://tkp.at/2022/07/07/niederlande-massive-proteste-von-bauern-und-fischern-und-schiessende-polizei/)
 ---
+
 clipped by markdownload from: https://tkp.at/2022/07/25/widerstand-gegen-die-food-transition-gentechnologie-und-abhaengigkeit/ 
