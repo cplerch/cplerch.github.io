@@ -230,7 +230,7 @@ ___
 
 _The author is a German writer and cultural critic. You can write to him:_ [_thorsten.pattberg@yahoo.com_](mailto:thorsten.pattberg@yahoo.com)
 
-Full list of all 4 parts in the ‘_Japan and Other Social Evils_’ series:
+Full list of all 4 parts in the "_Japan and Other Social Evils_" series:
 
 Part 1. [The _Hikikomori_ Or Socially Dead.](https://thesaker.is/japans-looking-at-10-million-hikikomori/)
 
@@ -278,12 +278,3 @@ _Further Reading: Japan made the terrible mistake of aligning itself with the wo
 
 [https://thesaker.is/things-are-not-looking-good-for-japans-sovereignty/](https://thesaker.is/things-are-not-looking-good-for-japans-sovereignty/)
 
-[![The Essential Saker IV: Messianic Narcissism's Agony by a Thousand Cuts](http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2020/08/essential-saker-iv-e1597115651545.jpg)](https://saker.community/product/the-essential-saker-iv/)
-
-The Essential Saker IV: Messianic Narcissism's Agony by a Thousand Cuts
-
-[![The Essential Saker II](http://dxczjjuegupb.cloudfront.net/wp-content/uploads/2019/07/the-essential-saker-3.jpg)](https://saker.community/product/the-essential-saker-iii/)
-
-The Essential Saker III: Chronicling The Tragedy, Farce And Collapse of the Empire in the Era of Mr MAGA
----
-clipped by markdownload from: http://thesaker.is/masters-and-emissaries-the-spectacular-collapse-of-german-japanese-relations-under-forced-globalism/ 
