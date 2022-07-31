@@ -89,5 +89,6 @@ Mazzei ist seit den 1970er Jahren prominentes Mitglied innerhalb der kommunistis
 > Das ist richtig, dass das jetzt nicht mehr geht. Jetzt haben wir nur noch Tage. Aber von uns kam der Vorschlag des konstitutiven Prozesses schon vor vielen Monaten. Die Situation ist sehr ungünstig. Wir werden weiter für die Einheit eintreten, auch die Bewegung fordert das. Es sieht aber nicht gut aus. Allerdings ist auch die Wahl im September und wir müssen auch abwarten, welche Regeln für die Teilnahme erlassen werden.
 
 **Lieber Herr Mazzei, danke für das Gespräch und alles Gute nach Italien!**
+
 ---
 clipped by markdownload from: https://tkp.at/2022/07/25/neuwahlen-in-italien-interview-zum-sturz-draghis-und-die-chancen-der-opposition/ 
